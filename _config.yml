@@ -50,7 +50,7 @@ gitment:
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: jchliaon
+    owner: jchliao
     repo: gitalk
     clientID: df3cf03e8b3939ab3f8e
     clientSecret: ba041a176540dc0ebda6ebe913aaf6a2e31cf322
