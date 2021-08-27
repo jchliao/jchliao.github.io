@@ -1,17 +1,17 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: 
-url: https://mazhuang.org/jekyll-theme-solid
-date_format: "ordinal"
-title: jekyll-theme-solid
-author: Zhuang Ma 
+baseurl: ""
+url: ""
+# date_format: "ordinal"
+title: 甲醇小黑屋
+author: 甲醇
 
 # ---------------- #
 #   RSS / Email    #
 # ---------------- #
 subscribe_rss: /feed.xml
-email:
+email: jch.liao@qq.com
 
 # ---------------- #
 #      Jekyll      #
@@ -21,7 +21,7 @@ kramdown:
     input: GFM
 paginate: 9
 permalink: /:year/:month/:day/:title/
-gems:
+plugins:
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
