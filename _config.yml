@@ -50,9 +50,9 @@ gitment:
         client_secret: ba041a176540dc0ebda6ebe913aaf6a2e31cf322
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: jekyll-theme-solid
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: jchliao
+    repo: gitalk
+    clientID: df3cf03e8b3939ab3f8e
+    clientSecret: ba041a176540dc0ebda6ebe913aaf6a2e31cf322
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
