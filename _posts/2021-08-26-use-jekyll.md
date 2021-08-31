@@ -3,7 +3,7 @@ layout: post
 title: Hello, jekyll
 categories: jekyll
 description: 在GitHub上部署jekyll
-keywords: jekyll
+keywords: jekyll, Github
 ---
 
 # jekyll在github上部署
