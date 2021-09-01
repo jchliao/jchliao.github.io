@@ -14,7 +14,7 @@ keywords: rsshub, rss, docker
 ```bash
 docker pull diygod/rsshub
 docker run -d --name rsshub -p 1200:1200 diygod/rsshub
-docker run -d --name rsshub -p 1200:1200  -e CACHE_EXPIRE=3600 -e DEBUG_INFO=false diygod/rsshub
+docker run -d --name rsshub -p 1200:1200  -e CACHE_EXPIRE=300 -e DEBUG_INFO=false diygod/rsshub
 docker run -d --name rsshub -p 1200:1200 diygod/rsshub --restart==always
 docker update --restart==always rsshub
 docker stop rsshub
