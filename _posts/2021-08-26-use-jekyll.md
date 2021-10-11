@@ -27,6 +27,7 @@ bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 按照 GitHub Pages 文档走，到修改 Gemfile：注释掉 `gem "jekyll"`，把 `#gem "github-pages"` 的#删掉，再添加`gem "webrick"` webrick插件是用来支持本地运行测试的。
 
 换主题后提示layouts文件缺失，可以新建_layouts文件夹，把对应的文件模版添加进去。可以把默认的文件拷贝过来，
+
 ```bash
 open $(bundle show minima)
 ```
