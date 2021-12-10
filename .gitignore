@@ -6,3 +6,4 @@ _drafts/
 .DS_Store
 Gemfile.lock
 .idea
+.vscode
